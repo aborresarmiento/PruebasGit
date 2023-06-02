@@ -1,0 +1,1004 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<root>
+ <div _ngcontent-ovf-c201="" class="col s6 m4 l3 xl3 ng-star-inserted" style="height: 460px;">
+  <mat-card _ngcontent-ovf-c201="" class="mat-card mat-focus-indicator">
+   <p _ngcontent-ovf-c201="" style="font-size: 14px; padding-bottom: 5px;">
+    Identificación:
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-1" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" mat-button="" mattooltip="Buscar por proceso" style="padding-left: 0px; padding-right: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      17001310500220210025700
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </p>
+   <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-2" cdk-describedby-host="" class="mat-tooltip-trigger" href="/detail/8854977" mattooltip="Reproducir video">
+    <img _ngcontent-ovf-c201="" alt="Photo of CTLogPanel" class="mat-card-image" mat-card-image="" src="https://apigestionaudiencias1.ramajudicial.gov.co/api/Portal/Grabaciones/Thumbnail?VideoName=17001310500220210025700_L170013105004CSJVirtual_01_20230428_110000_V.mp4"/>
+   </a>
+   <!-- -->
+   <mat-card-content _ngcontent-ovf-c201="" class="mat-card-content">
+    <div _ngcontent-ovf-c201="" class="row" style="margin-bottom: 0;">
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Fecha:
+       <strong _ngcontent-ovf-c201="">
+        2023/04/28
+       </strong>
+      </p>
+     </div>
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Hora:
+       <strong _ngcontent-ovf-c201="">
+        11:00 AM
+       </strong>
+      </p>
+     </div>
+    </div>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+      Juzgado 004 Laboral de Manizales
+     </strong>
+    </p>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+     </strong>
+    </p>
+   </mat-card-content>
+   <mat-card-actions _ngcontent-ovf-c201="" class="mat-card-actions">
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-3" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" download="" href="https://apigestionaudiencias1.ramajudicial.gov.co/api/filevideo/descargarArchivo?videoName=17001310500220210025700_L170013105004CSJVirtual_01_20230428_110000_V.mp4" mat-button="" mattooltip="Descargar" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0" target="_blank">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       get_app
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-4" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tags/8854977" mat-button="" mattooltip="Gestionar palabras claves" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-5" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/attachments/8854977" mat-button="" mattooltip="Gestionar adjuntos" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       attach_file
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-6" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tagsvideo/8854977" mat-button="" mattooltip="Gestionar etiquetas de tiempo de reproducción" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       video_label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </mat-card-actions>
+  </mat-card>
+ </div>
+ <div _ngcontent-ovf-c201="" class="col s6 m4 l3 xl3 ng-star-inserted" style="height: 460px;">
+  <mat-card _ngcontent-ovf-c201="" class="mat-card mat-focus-indicator">
+   <p _ngcontent-ovf-c201="" style="font-size: 14px; padding-bottom: 5px;">
+    Identificación:
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-1" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" mat-button="" mattooltip="Buscar por proceso" style="padding-left: 0px; padding-right: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      17001310500120200030500
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </p>
+   <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-2" cdk-describedby-host="" class="mat-tooltip-trigger" href="/detail/8843126" mattooltip="Reproducir video">
+    <img _ngcontent-ovf-c201="" alt="Photo of CTLogPanel" class="mat-card-image" mat-card-image="" src="https://apigestionaudiencias1.ramajudicial.gov.co/api/Portal/Grabaciones/Thumbnail?VideoName=17001310500120200030500_L170013105004CSJVirtual_01_20230427_090000_V.mp4"/>
+   </a>
+   <!-- -->
+   <mat-card-content _ngcontent-ovf-c201="" class="mat-card-content">
+    <div _ngcontent-ovf-c201="" class="row" style="margin-bottom: 0;">
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Fecha:
+       <strong _ngcontent-ovf-c201="">
+        2023/04/27
+       </strong>
+      </p>
+     </div>
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Hora:
+       <strong _ngcontent-ovf-c201="">
+        09:00 AM
+       </strong>
+      </p>
+     </div>
+    </div>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+      Juzgado 004 Laboral de Manizales
+     </strong>
+    </p>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+     </strong>
+    </p>
+   </mat-card-content>
+   <mat-card-actions _ngcontent-ovf-c201="" class="mat-card-actions">
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-3" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" download="" href="https://apigestionaudiencias1.ramajudicial.gov.co/api/filevideo/descargarArchivo?videoName=17001310500120200030500_L170013105004CSJVirtual_01_20230427_090000_V.mp4" mat-button="" mattooltip="Descargar" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0" target="_blank">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       get_app
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-4" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tags/8843126" mat-button="" mattooltip="Gestionar palabras claves" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-5" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/attachments/8843126" mat-button="" mattooltip="Gestionar adjuntos" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       attach_file
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-6" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tagsvideo/8843126" mat-button="" mattooltip="Gestionar etiquetas de tiempo de reproducción" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       video_label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </mat-card-actions>
+  </mat-card>
+ </div>
+ <div _ngcontent-ovf-c201="" class="col s6 m4 l3 xl3 ng-star-inserted" style="height: 460px;">
+  <mat-card _ngcontent-ovf-c201="" class="mat-card mat-focus-indicator">
+   <p _ngcontent-ovf-c201="" style="font-size: 14px; padding-bottom: 5px;">
+    Identificación:
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-1" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" mat-button="" mattooltip="Buscar por proceso" style="padding-left: 0px; padding-right: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      17001310500320200011300
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </p>
+   <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-2" cdk-describedby-host="" class="mat-tooltip-trigger" href="/detail/8821498" mattooltip="Reproducir video">
+    <img _ngcontent-ovf-c201="" alt="Photo of CTLogPanel" class="mat-card-image" mat-card-image="" src="https://apigestionaudiencias1.ramajudicial.gov.co/api/Portal/Grabaciones/Thumbnail?VideoName=17001310500320200011300_L170013105004CSJVirtual_01_20230426_090000_V.mp4"/>
+   </a>
+   <!-- -->
+   <mat-card-content _ngcontent-ovf-c201="" class="mat-card-content">
+    <div _ngcontent-ovf-c201="" class="row" style="margin-bottom: 0;">
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Fecha:
+       <strong _ngcontent-ovf-c201="">
+        2023/04/26
+       </strong>
+      </p>
+     </div>
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Hora:
+       <strong _ngcontent-ovf-c201="">
+        09:00 AM
+       </strong>
+      </p>
+     </div>
+    </div>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+      Juzgado 004 Laboral de Manizales
+     </strong>
+    </p>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+     </strong>
+    </p>
+   </mat-card-content>
+   <mat-card-actions _ngcontent-ovf-c201="" class="mat-card-actions">
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-3" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" download="" href="https://apigestionaudiencias1.ramajudicial.gov.co/api/filevideo/descargarArchivo?videoName=17001310500320200011300_L170013105004CSJVirtual_01_20230426_090000_V.mp4" mat-button="" mattooltip="Descargar" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0" target="_blank">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       get_app
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-4" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tags/8821498" mat-button="" mattooltip="Gestionar palabras claves" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-5" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/attachments/8821498" mat-button="" mattooltip="Gestionar adjuntos" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       attach_file
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-6" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tagsvideo/8821498" mat-button="" mattooltip="Gestionar etiquetas de tiempo de reproducción" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       video_label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </mat-card-actions>
+  </mat-card>
+ </div>
+ <div _ngcontent-ovf-c201="" class="col s6 m4 l3 xl3 ng-star-inserted" style="height: 460px;">
+  <mat-card _ngcontent-ovf-c201="" class="mat-card mat-focus-indicator">
+   <p _ngcontent-ovf-c201="" style="font-size: 14px; padding-bottom: 5px;">
+    Identificación:
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-1" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" mat-button="" mattooltip="Buscar por proceso" style="padding-left: 0px; padding-right: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      17001310500320210041700
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </p>
+   <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-2" cdk-describedby-host="" class="mat-tooltip-trigger" href="/detail/8821503" mattooltip="Reproducir video">
+    <img _ngcontent-ovf-c201="" alt="Photo of CTLogPanel" class="mat-card-image" mat-card-image="" src="https://apigestionaudiencias1.ramajudicial.gov.co/api/Portal/Grabaciones/Thumbnail?VideoName=17001310500320210041700_L170013105004CSJVirtual_01_20230426_150000_V.mp4"/>
+   </a>
+   <!-- -->
+   <mat-card-content _ngcontent-ovf-c201="" class="mat-card-content">
+    <div _ngcontent-ovf-c201="" class="row" style="margin-bottom: 0;">
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Fecha:
+       <strong _ngcontent-ovf-c201="">
+        2023/04/26
+       </strong>
+      </p>
+     </div>
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Hora:
+       <strong _ngcontent-ovf-c201="">
+        3:00 PM
+       </strong>
+      </p>
+     </div>
+    </div>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+      Juzgado 004 Laboral de Manizales
+     </strong>
+    </p>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+     </strong>
+    </p>
+   </mat-card-content>
+   <mat-card-actions _ngcontent-ovf-c201="" class="mat-card-actions">
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-3" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" download="" href="https://apigestionaudiencias1.ramajudicial.gov.co/api/filevideo/descargarArchivo?videoName=17001310500320210041700_L170013105004CSJVirtual_01_20230426_150000_V.mp4" mat-button="" mattooltip="Descargar" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0" target="_blank">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       get_app
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-4" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tags/8821503" mat-button="" mattooltip="Gestionar palabras claves" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-5" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/attachments/8821503" mat-button="" mattooltip="Gestionar adjuntos" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       attach_file
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-6" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tagsvideo/8821503" mat-button="" mattooltip="Gestionar etiquetas de tiempo de reproducción" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       video_label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </mat-card-actions>
+  </mat-card>
+ </div>
+ <div _ngcontent-ovf-c201="" class="col s6 m4 l3 xl3 ng-star-inserted" style="height: 460px;">
+  <mat-card _ngcontent-ovf-c201="" class="mat-card mat-focus-indicator">
+   <p _ngcontent-ovf-c201="" style="font-size: 14px; padding-bottom: 5px;">
+    Identificación:
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-1" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" mat-button="" mattooltip="Buscar por proceso" style="padding-left: 0px; padding-right: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      17001310500120190067600
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </p>
+   <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-2" cdk-describedby-host="" class="mat-tooltip-trigger" href="/detail/8800502" mattooltip="Reproducir video">
+    <img _ngcontent-ovf-c201="" alt="Photo of CTLogPanel" class="mat-card-image" mat-card-image="" src="https://apigestionaudiencias1.ramajudicial.gov.co/api/Portal/Grabaciones/Thumbnail?VideoName=17001310500120190067600_L170013105004CSJVirtual_01_20230425_090000_V.mp4"/>
+   </a>
+   <!-- -->
+   <mat-card-content _ngcontent-ovf-c201="" class="mat-card-content">
+    <div _ngcontent-ovf-c201="" class="row" style="margin-bottom: 0;">
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Fecha:
+       <strong _ngcontent-ovf-c201="">
+        2023/04/25
+       </strong>
+      </p>
+     </div>
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Hora:
+       <strong _ngcontent-ovf-c201="">
+        09:00 AM
+       </strong>
+      </p>
+     </div>
+    </div>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+      Juzgado 004 Laboral de Manizales
+     </strong>
+    </p>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+     </strong>
+    </p>
+   </mat-card-content>
+   <mat-card-actions _ngcontent-ovf-c201="" class="mat-card-actions">
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-3" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" download="" href="https://apigestionaudiencias1.ramajudicial.gov.co/api/filevideo/descargarArchivo?videoName=17001310500120190067600_L170013105004CSJVirtual_01_20230425_090000_V.mp4" mat-button="" mattooltip="Descargar" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0" target="_blank">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       get_app
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-4" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tags/8800502" mat-button="" mattooltip="Gestionar palabras claves" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-5" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/attachments/8800502" mat-button="" mattooltip="Gestionar adjuntos" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       attach_file
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-6" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tagsvideo/8800502" mat-button="" mattooltip="Gestionar etiquetas de tiempo de reproducción" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       video_label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </mat-card-actions>
+  </mat-card>
+ </div>
+ <div _ngcontent-ovf-c201="" class="col s6 m4 l3 xl3 ng-star-inserted" style="height: 460px;">
+  <mat-card _ngcontent-ovf-c201="" class="mat-card mat-focus-indicator">
+   <p _ngcontent-ovf-c201="" style="font-size: 14px; padding-bottom: 5px;">
+    Identificación:
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-1" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" mat-button="" mattooltip="Buscar por proceso" style="padding-left: 0px; padding-right: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      17001310500120200040300
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </p>
+   <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-2" cdk-describedby-host="" class="mat-tooltip-trigger" href="/detail/8789832" mattooltip="Reproducir video">
+    <img _ngcontent-ovf-c201="" alt="Photo of CTLogPanel" class="mat-card-image" mat-card-image="" src="https://apigestionaudiencias1.ramajudicial.gov.co/api/Portal/Grabaciones/Thumbnail?VideoName=17001310500120200040300_L170013105004CSJVirtual_01_20230424_090000_V.mp4"/>
+   </a>
+   <!-- -->
+   <mat-card-content _ngcontent-ovf-c201="" class="mat-card-content">
+    <div _ngcontent-ovf-c201="" class="row" style="margin-bottom: 0;">
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Fecha:
+       <strong _ngcontent-ovf-c201="">
+        2023/04/24
+       </strong>
+      </p>
+     </div>
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Hora:
+       <strong _ngcontent-ovf-c201="">
+        09:00 AM
+       </strong>
+      </p>
+     </div>
+    </div>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+      Juzgado 004 Laboral de Manizales
+     </strong>
+    </p>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+     </strong>
+    </p>
+   </mat-card-content>
+   <mat-card-actions _ngcontent-ovf-c201="" class="mat-card-actions">
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-3" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" download="" href="https://apigestionaudiencias1.ramajudicial.gov.co/api/filevideo/descargarArchivo?videoName=17001310500120200040300_L170013105004CSJVirtual_01_20230424_090000_V.mp4" mat-button="" mattooltip="Descargar" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0" target="_blank">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       get_app
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-4" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tags/8789832" mat-button="" mattooltip="Gestionar palabras claves" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-5" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/attachments/8789832" mat-button="" mattooltip="Gestionar adjuntos" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       attach_file
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-6" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tagsvideo/8789832" mat-button="" mattooltip="Gestionar etiquetas de tiempo de reproducción" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       video_label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </mat-card-actions>
+  </mat-card>
+ </div>
+ <div _ngcontent-ovf-c201="" class="col s6 m4 l3 xl3 ng-star-inserted" style="height: 460px;">
+  <mat-card _ngcontent-ovf-c201="" class="mat-card mat-focus-indicator">
+   <p _ngcontent-ovf-c201="" style="font-size: 14px; padding-bottom: 5px;">
+    Identificación:
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-1" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" mat-button="" mattooltip="Buscar por proceso" style="padding-left: 0px; padding-right: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      17001310500320200037800
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </p>
+   <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-2" cdk-describedby-host="" class="mat-tooltip-trigger" href="/detail/8771788" mattooltip="Reproducir video">
+    <img _ngcontent-ovf-c201="" alt="Photo of CTLogPanel" class="mat-card-image" mat-card-image="" src="https://apigestionaudiencias1.ramajudicial.gov.co/api/Portal/Grabaciones/Thumbnail?VideoName=17001310500320200037800_L170013105004CSJVirtual_01_20230421_103000_V.mp4"/>
+   </a>
+   <!-- -->
+   <mat-card-content _ngcontent-ovf-c201="" class="mat-card-content">
+    <div _ngcontent-ovf-c201="" class="row" style="margin-bottom: 0;">
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Fecha:
+       <strong _ngcontent-ovf-c201="">
+        2023/04/21
+       </strong>
+      </p>
+     </div>
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Hora:
+       <strong _ngcontent-ovf-c201="">
+        10:30 AM
+       </strong>
+      </p>
+     </div>
+    </div>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+      Juzgado 004 Laboral de Manizales
+     </strong>
+    </p>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+     </strong>
+    </p>
+   </mat-card-content>
+   <mat-card-actions _ngcontent-ovf-c201="" class="mat-card-actions">
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-3" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" download="" href="https://apigestionaudiencias1.ramajudicial.gov.co/api/filevideo/descargarArchivo?videoName=17001310500320200037800_L170013105004CSJVirtual_01_20230421_103000_V.mp4" mat-button="" mattooltip="Descargar" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0" target="_blank">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       get_app
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-4" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tags/8771788" mat-button="" mattooltip="Gestionar palabras claves" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-5" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/attachments/8771788" mat-button="" mattooltip="Gestionar adjuntos" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       attach_file
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-6" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tagsvideo/8771788" mat-button="" mattooltip="Gestionar etiquetas de tiempo de reproducción" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       video_label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </mat-card-actions>
+  </mat-card>
+ </div>
+ <div _ngcontent-ovf-c201="" class="col s6 m4 l3 xl3 ng-star-inserted" style="height: 460px;">
+  <mat-card _ngcontent-ovf-c201="" class="mat-card mat-focus-indicator">
+   <p _ngcontent-ovf-c201="" style="font-size: 14px; padding-bottom: 5px;">
+    Identificación:
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-1" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" mat-button="" mattooltip="Buscar por proceso" style="padding-left: 0px; padding-right: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      17001310500320210030100
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </p>
+   <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-2" cdk-describedby-host="" class="mat-tooltip-trigger" href="/detail/8771790" mattooltip="Reproducir video">
+    <img _ngcontent-ovf-c201="" alt="Photo of CTLogPanel" class="mat-card-image" mat-card-image="" src="https://apigestionaudiencias1.ramajudicial.gov.co/api/Portal/Grabaciones/Thumbnail?VideoName=17001310500320210030100_L170013105004CSJVirtual_01_20230421_090000_V.mp4"/>
+   </a>
+   <!-- -->
+   <mat-card-content _ngcontent-ovf-c201="" class="mat-card-content">
+    <div _ngcontent-ovf-c201="" class="row" style="margin-bottom: 0;">
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Fecha:
+       <strong _ngcontent-ovf-c201="">
+        2023/04/21
+       </strong>
+      </p>
+     </div>
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Hora:
+       <strong _ngcontent-ovf-c201="">
+        09:00 AM
+       </strong>
+      </p>
+     </div>
+    </div>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+      Juzgado 004 Laboral de Manizales
+     </strong>
+    </p>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+     </strong>
+    </p>
+   </mat-card-content>
+   <mat-card-actions _ngcontent-ovf-c201="" class="mat-card-actions">
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-3" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" download="" href="https://apigestionaudiencias1.ramajudicial.gov.co/api/filevideo/descargarArchivo?videoName=17001310500320210030100_L170013105004CSJVirtual_01_20230421_090000_V.mp4" mat-button="" mattooltip="Descargar" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0" target="_blank">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       get_app
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-4" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tags/8771790" mat-button="" mattooltip="Gestionar palabras claves" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-5" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/attachments/8771790" mat-button="" mattooltip="Gestionar adjuntos" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       attach_file
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-6" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tagsvideo/8771790" mat-button="" mattooltip="Gestionar etiquetas de tiempo de reproducción" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       video_label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </mat-card-actions>
+  </mat-card>
+ </div>
+ <div _ngcontent-ovf-c201="" class="col s6 m4 l3 xl3 ng-star-inserted" style="height: 460px;">
+  <mat-card _ngcontent-ovf-c201="" class="mat-card mat-focus-indicator">
+   <p _ngcontent-ovf-c201="" style="font-size: 14px; padding-bottom: 5px;">
+    Identificación:
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-1" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" mat-button="" mattooltip="Buscar por proceso" style="padding-left: 0px; padding-right: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      17001310500220190077500
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </p>
+   <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-2" cdk-describedby-host="" class="mat-tooltip-trigger" href="/detail/8737624" mattooltip="Reproducir video">
+    <img _ngcontent-ovf-c201="" alt="Photo of CTLogPanel" class="mat-card-image" mat-card-image="" src="https://apigestionaudiencias1.ramajudicial.gov.co/api/Portal/Grabaciones/Thumbnail?VideoName=17001310500220190077500_L170013105004CSJVirtual_01_20230419_090000_V.mp4"/>
+   </a>
+   <!-- -->
+   <mat-card-content _ngcontent-ovf-c201="" class="mat-card-content">
+    <div _ngcontent-ovf-c201="" class="row" style="margin-bottom: 0;">
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Fecha:
+       <strong _ngcontent-ovf-c201="">
+        2023/04/19
+       </strong>
+      </p>
+     </div>
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Hora:
+       <strong _ngcontent-ovf-c201="">
+        09:00 AM
+       </strong>
+      </p>
+     </div>
+    </div>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+      Juzgado 004 Laboral de Manizales
+     </strong>
+    </p>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+     </strong>
+    </p>
+   </mat-card-content>
+   <mat-card-actions _ngcontent-ovf-c201="" class="mat-card-actions">
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-3" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" download="" href="https://apigestionaudiencias1.ramajudicial.gov.co/api/filevideo/descargarArchivo?videoName=17001310500220190077500_L170013105004CSJVirtual_01_20230419_090000_V.mp4" mat-button="" mattooltip="Descargar" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0" target="_blank">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       get_app
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-4" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tags/8737624" mat-button="" mattooltip="Gestionar palabras claves" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-5" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/attachments/8737624" mat-button="" mattooltip="Gestionar adjuntos" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       attach_file
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-6" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tagsvideo/8737624" mat-button="" mattooltip="Gestionar etiquetas de tiempo de reproducción" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       video_label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </mat-card-actions>
+  </mat-card>
+ </div>
+ <div _ngcontent-ovf-c201="" class="col s6 m4 l3 xl3 ng-star-inserted" style="height: 460px;">
+  <mat-card _ngcontent-ovf-c201="" class="mat-card mat-focus-indicator">
+   <p _ngcontent-ovf-c201="" style="font-size: 14px; padding-bottom: 5px;">
+    Identificación:
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-1" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" mat-button="" mattooltip="Buscar por proceso" style="padding-left: 0px; padding-right: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      17001310500220210019300
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </p>
+   <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-2" cdk-describedby-host="" class="mat-tooltip-trigger" href="/detail/8726021" mattooltip="Reproducir video">
+    <img _ngcontent-ovf-c201="" alt="Photo of CTLogPanel" class="mat-card-image" mat-card-image="" src="https://apigestionaudiencias1.ramajudicial.gov.co/api/Portal/Grabaciones/Thumbnail?VideoName=17001310500220210019300_L170013105004CSJVirtual_01_20230418_110000_V.mp4"/>
+   </a>
+   <!-- -->
+   <mat-card-content _ngcontent-ovf-c201="" class="mat-card-content">
+    <div _ngcontent-ovf-c201="" class="row" style="margin-bottom: 0;">
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Fecha:
+       <strong _ngcontent-ovf-c201="">
+        2023/04/18
+       </strong>
+      </p>
+     </div>
+     <div _ngcontent-ovf-c201="" class="col s6" style="padding: 0;">
+      <p _ngcontent-ovf-c201="">
+       Hora:
+       <strong _ngcontent-ovf-c201="">
+        11:00 AM
+       </strong>
+      </p>
+     </div>
+    </div>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+      Juzgado 004 Laboral de Manizales
+     </strong>
+    </p>
+    <p _ngcontent-ovf-c201="" style="margin-top: 0;">
+     <strong _ngcontent-ovf-c201="">
+     </strong>
+    </p>
+   </mat-card-content>
+   <mat-card-actions _ngcontent-ovf-c201="" class="mat-card-actions">
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-3" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" download="" href="https://apigestionaudiencias1.ramajudicial.gov.co/api/filevideo/descargarArchivo?videoName=17001310500220210019300_L170013105004CSJVirtual_01_20230418_110000_V.mp4" mat-button="" mattooltip="Descargar" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0" target="_blank">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       get_app
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-4" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tags/8726021" mat-button="" mattooltip="Gestionar palabras claves" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-5" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/attachments/8726021" mat-button="" mattooltip="Gestionar adjuntos" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       attach_file
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+    <a _ngcontent-ovf-c201="" aria-describedby="cdk-describedby-message-6" aria-disabled="false" cdk-describedby-host="" class="mat-focus-indicator mat-tooltip-trigger mat-button mat-button-base mat-primary" color="primary" href="/tagsvideo/8726021" mat-button="" mattooltip="Gestionar etiquetas de tiempo de reproducción" style="padding-right: 8px; padding-left: 8px; margin: 0px;" tabindex="0">
+     <span class="mat-button-wrapper">
+      <mat-icon _ngcontent-ovf-c201="" aria-hidden="true" class="mat-icon notranslate material-icons mat-icon-no-color" data-mat-icon-type="font" role="img">
+       video_label
+      </mat-icon>
+     </span>
+     <span class="mat-ripple mat-button-ripple" matripple="">
+     </span>
+     <span class="mat-button-focus-overlay">
+     </span>
+    </a>
+    <!-- -->
+   </mat-card-actions>
+  </mat-card>
+ </div>
+ <!-- -->
+</root>
